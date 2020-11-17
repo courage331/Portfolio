@@ -4,5 +4,6 @@
 
 ## 첫번째 프로젝트 - JAVA 프로젝트 (Subway kiosk)
 
-## 두번째 프로젝트 - JSP를 프로젝트[애견호텔] [바로가기](https://github.com/courage331/SemiProject.git)
+## 두번째 프로젝트 - JSP 프로젝트[애견호텔 (https://github.com/courage331/SemiProject.git)] 
+
 
